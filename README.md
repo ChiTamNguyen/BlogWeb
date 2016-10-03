@@ -6,7 +6,7 @@
 Danh sách sinh viên: **1312178 - Thông Thị Thanh Hằng
                       1312507 - Nguyễn Chí Tâm**
 
-URL: **Insert your Heroku URL here**
+URL: **https://postblog.herokuapp.com/**
 
 ## Chức năng
 
