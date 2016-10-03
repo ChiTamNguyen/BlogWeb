@@ -22,7 +22,7 @@ default: &default
   pool: 5
   host: localhost
   username: postgres
-  password: 762119
+  password: ginta12000
   timeout: 5000
 
 development:
