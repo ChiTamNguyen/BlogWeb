@@ -44,6 +44,9 @@ GEM
     bootstrap (4.0.0.alpha4)
       autoprefixer-rails (>= 6.0.3)
       sass (>= 3.4.19)
+    bootstrap-sass (3.3.6)
+      autoprefixer-rails (>= 5.2.1)
+      sass (>= 3.3.4)
     builder (3.2.2)
     ckeditor (4.2.0)
       cocaine
@@ -168,6 +171,7 @@ PLATFORMS
 
 DEPENDENCIES
   bootstrap (~> 4.0.0.alpha3)
+  bootstrap-sass (~> 3.3.6)
   byebug
   ckeditor (~> 4.1)
   coffee-rails (~> 4.2)
@@ -186,4 +190,4 @@ DEPENDENCIES
   web-console
 
 BUNDLED WITH
-   1.13.1
+   1.13.2
